@@ -1,4 +1,4 @@
-﻿// ====== НАСТРОЙКИ ======
+﻿
 const BASE_URL = 'https://web.fort-monitor.ru/api/integration/v1';
 const LOGIN = 'Бетон04';
 const PASSWORD = '3456';
